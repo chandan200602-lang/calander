@@ -1,0 +1,7 @@
+import calendar
+yy =2026
+yy2= 2040
+yy3 =2045
+print(calendar.calendar(yy))
+print(calendar.calendar(yy2))
+print(calendar.calendar(yy3))
